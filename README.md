@@ -33,8 +33,6 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="70" alt="tailwindcss logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" alt="bootstrap logo"  />
-  <img width="16" />
   <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
@@ -48,12 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" alt="mongodb logo"  />
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="70" alt="nextjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="70" alt="canva logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="70" alt="vscode logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="70" alt="firebase logo"  />
 </div>
 
 <!--
