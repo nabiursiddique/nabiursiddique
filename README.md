@@ -2,18 +2,28 @@
   <img src="https://i.ibb.co.com/C7tPm4R/Github-Banner.jpg"  />
 </div>
 
+<h2 align="left">About Me:</h2>
+<p align="left">
+👋 Hi, I'm Nabiur Siddique<br> 
+💻 Web Developer from Bangladesh<br>
+📚 I love building websites and exploring new technologies<br>
+</p>
+
 <h2 align="left">Connect With Me:</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://www.facebook.com/nabiursiddique">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-<a href="mailto:nabiursiddique01@gmail.com">
+
+  <a href="mailto:nabiursiddique01@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
+  </a>
+
   <a href="https://www.instagram.com/nabiursiddique/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+
   <a href="https://www.linkedin.com/in/nabiursiddique/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -82,7 +92,7 @@
 
 ###
 
-<h2 align="left">Tools I use:</h2>
+<h2 align="left">Tools I Use:</h2>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="60"/>
   <img width="16" />
@@ -107,27 +117,16 @@
 
   <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" height="60"/>
   <img width="16" />
+
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f" height="60"/>
+  <img width="16" />
 </div>
 
 ###
 
-<h2 align="left">Current Stats:</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabiursiddique&theme=default&hide_border=true" alt="nabiursiddique's GitHub Stats" />
+<h2 align="left">Github Stats:</h2>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabiursiddique&show_icons=true&locale=en&layout=compact" alt="nabiursiddique" height='150' />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabiursiddique&show_icons=true&locale=en&layout=compact" alt="nabiursiddique" /></p>
-
-<!--
-# 👤 About me:
-
-- 👋 Front-end developer passionate about crafting user-centric web experiences.
-- 💻 Proficient in React.js, JavaScript, and Node.js.
--  🌐 Skilled in building dynamic and interactive user interfaces.
-- 🚀 Excited about exploring new front-end technologies and frameworks.
-- 📚 Constantly learning and staying updated with industry trends.
-
-### What I'm Excited About
-
-- 🚀 Exploring new front-end technologies and frameworks.
-- 🌐 Contributing to open-source projects to foster community learning.
-- 📚 Continuous learning and staying updated with industry trends.
--->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabiursiddique&theme=default&hide_border=true" alt="nabiursiddique's GitHub Stats" height='150' />
+</div>
