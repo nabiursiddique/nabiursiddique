@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img height="380" src="https://i.ibb.co.com/wL6jhFJ/Linked-In-Banner.jpg"  />
+</div>
 
 <!--
 **nabiursiddique/nabiursiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
