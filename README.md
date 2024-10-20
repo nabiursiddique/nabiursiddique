@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/C7tPm4R/Github-Banner.jpg"  />
 </div>
 
-<h3 align="left">🔍 Reach Me Out :</h3>
+<h2 align="left">Connect With Me:</h2>
 
 <div align="center">
   <a href="https://www.facebook.com/nabiursiddique">
@@ -17,12 +17,9 @@
   <a href="https://www.linkedin.com/in/nabiursiddique/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-<!--   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a> -->
 </div>
 
-<h3 align="left">Programming Languages I Know</h3>
+<h2 align="left">Programming Languages I Know:</h2>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="60"/>
   <img width="16" />
@@ -37,7 +34,7 @@
   <img width="16" />
 </div>
 
-<h3 align="left">🛠 Technologies I Know</h3>
+<h2 align="left">Technologies I work with:</h2>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="60"/>
   <img width="16" />
@@ -85,7 +82,7 @@
 
 ###
 
-<h3 align="left">🛠 Tools I use</h3>
+<h2 align="left">Tools I use:</h2>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" height="60"/>
   <img width="16" />
@@ -114,19 +111,23 @@
 
 ###
 
+<h2 align="left">Current Stats:</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nabiursiddique&theme=default&hide_border=true" alt="nabiursiddique's GitHub Stats" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabiursiddique&show_icons=true&locale=en&layout=compact" alt="nabiursiddique" /></p>
 
 <!--
-**nabiursiddique/nabiursiddique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👤 About me:
 
-Here are some ideas to get you started:
+- 👋 Front-end developer passionate about crafting user-centric web experiences.
+- 💻 Proficient in React.js, JavaScript, and Node.js.
+-  🌐 Skilled in building dynamic and interactive user interfaces.
+- 🚀 Excited about exploring new front-end technologies and frameworks.
+- 📚 Constantly learning and staying updated with industry trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### What I'm Excited About
+
+- 🚀 Exploring new front-end technologies and frameworks.
+- 🌐 Contributing to open-source projects to foster community learning.
+- 📚 Continuous learning and staying updated with industry trends.
 -->
