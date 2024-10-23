@@ -7,6 +7,9 @@
 👋 Hi, I'm Nabiur Siddique<br> 
 💻 Web Developer from Bangladesh<br>
 📚 I love building websites and exploring new technologies<br>
+📫 How to reach me - <a href="mailto:nabiursiddique01@gmail.com">nabiursiddique01@gmail.com</a><br>
+📄 Know more about me - <a href="https://drive.google.com/file/d/1Wc_jEgI-fvcrzLDdjNjCEfFbTlZvfPjO/view">My Resume</a><br>
+⚡ Hobbies: Photography, Photo Editing, Travelling
 </p>
 
 <h2 align="left">Connect With Me:</h2>
