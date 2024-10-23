@@ -42,7 +42,7 @@
   <!-- <img width="16" /> -->
 </div>
 
-<h2 align="left">Technologies I work with:</h2>
+<h2 align="left">Technologies I Works With:</h2>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="60"/>
   <img width="16" />
