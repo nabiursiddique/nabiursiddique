@@ -112,6 +112,6 @@
 
 <h2 align="left">Github Stats:</h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=nabiursiddique&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="nabiursiddique's Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiursiddique&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="nabiursiddique's Top Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nabiursiddique&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="nabiursiddique's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiursiddique&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="nabiursiddique's Top Languages" height="150" />
 </div>
