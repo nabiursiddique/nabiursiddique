@@ -8,7 +8,7 @@
 💻 Web Developer from Bangladesh<br>
 📚 I love building websites and exploring new technologies<br>
 📫 How to reach me - <a href="mailto:nabiursiddique01@gmail.com">nabiursiddique01@gmail.com</a><br>
-📄 Know more about me - <a href="https://drive.google.com/file/d/1UTAgoUQTFUL47HoQQCQ3-muiOnpQctpx/view">My Resume</a><br>
+📄 Know more about me - <a href="https://drive.google.com/file/d/1fRDxVFZrdmdTp6VhdcsnHc-gwV_djpFo/view">My Resume</a><br>
 ⚡ Hobbies: Photography, Photo Editing, Travelling
 </p>
 
