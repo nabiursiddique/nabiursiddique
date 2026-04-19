@@ -33,7 +33,7 @@
 </div>
 
 <h2 align="left">Programming Languages I Know:</h2>
-<div align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=c" height="50" width="50"/>
 
   <img src="https://skillicons.dev/icons?i=cpp" height="50" width="50"/>
@@ -44,7 +44,7 @@
 </div>
 
 <h2 align="left">Technologies I Works With:</h2>
-<div align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=html" height="50" width="50"/>
 
   <img src="https://skillicons.dev/icons?i=css" height="50" width="50"/>
@@ -78,7 +78,7 @@
 ###
 
 <h2 align="left">Tools I Use:</h2>
-<div align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=git" height="50" width="50"/>
 
   <img src="https://skillicons.dev/icons?i=github" height="50" width="50"/>
